@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/tmc/langchaingo/schema"
+	"github.com/sywhang/langchaingo/schema"
 	"golang.org/x/exp/slices"
 )
 

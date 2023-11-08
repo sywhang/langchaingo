@@ -1,7 +1,7 @@
 package ollama
 
 import (
-	"github.com/tmc/langchaingo/llms/ollama"
+	"github.com/sywhang/langchaingo/llms/ollama"
 )
 
 const (

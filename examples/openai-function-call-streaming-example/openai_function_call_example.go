@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/tmc/langchaingo/jsonschema"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/sywhang/langchaingo/jsonschema"
+	"github.com/sywhang/langchaingo/llms"
+	"github.com/sywhang/langchaingo/llms/openai"
+	"github.com/sywhang/langchaingo/schema"
 )
 
 func main() {

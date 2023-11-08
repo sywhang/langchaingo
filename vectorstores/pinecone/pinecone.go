@@ -5,9 +5,9 @@ import (
 	"errors"
 
 	"github.com/pinecone-io/go-pinecone/pinecone_grpc"
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/vectorstores"
+	"github.com/sywhang/langchaingo/embeddings"
+	"github.com/sywhang/langchaingo/schema"
+	"github.com/sywhang/langchaingo/vectorstores"
 	"google.golang.org/grpc"
 )
 

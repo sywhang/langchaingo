@@ -11,12 +11,12 @@ import (
 	chromago "github.com/amikos-tech/chroma-go"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/chains"
-	openaiEmbeddings "github.com/tmc/langchaingo/embeddings/openai"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/vectorstores"
-	"github.com/tmc/langchaingo/vectorstores/chroma"
+	"github.com/sywhang/langchaingo/chains"
+	openaiEmbeddings "github.com/sywhang/langchaingo/embeddings/openai"
+	"github.com/sywhang/langchaingo/llms/openai"
+	"github.com/sywhang/langchaingo/schema"
+	"github.com/sywhang/langchaingo/vectorstores"
+	"github.com/sywhang/langchaingo/vectorstores/chroma"
 )
 
 // TODO (noodnik2):

@@ -4,8 +4,8 @@ import (
 	"context"
 	"strings"
 
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/llms/ollama"
+	"github.com/sywhang/langchaingo/embeddings"
+	"github.com/sywhang/langchaingo/llms/ollama"
 )
 
 // Ollama is the embedder using the Ollama api.

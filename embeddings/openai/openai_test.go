@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/llms/openai"
+	"github.com/sywhang/langchaingo/llms/openai"
 )
 
 func TestOpenaiEmbeddings(t *testing.T) {
